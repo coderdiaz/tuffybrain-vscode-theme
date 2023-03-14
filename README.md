@@ -1,7 +1,7 @@
 # Tuffybrain
 Visual Studio Theme inspired by Jetbrains with better accesible colors ✨
 
-![Preview](./docs/preview.png)
+![Preview](docs/preview.png)
 
 ## Installation
 1. Go to `Extensions: Install extension` using the Command Palette(`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
@@ -14,7 +14,7 @@ Visual Studio Theme inspired by Jetbrains with better accesible colors ✨
 ## Preferences
 For a better UI experience I recommend to disable `Activity Bar` and use only the command palette. If you like Jetbrains products you can [download](https://www.jetbrains.com/lp/mono/) and use the `Jetbrains Mono Font`.
 
-![Jetbrains Mono](./docs/jetbrains-font.png)
+![Jetbrains Mono](docs/jetbrains-font.png)
 
 Enable Ligatures to enjoy the whole experience:
 ```
