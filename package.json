@@ -1,0 +1,45 @@
+{
+  "name": "tuffybrain",
+  "displayName": "Tuffybrain",
+  "description": "A color theme inpired on Jetbrains Theme with accesible colors",
+  "version": "0.1.0",
+  "publisher": "coderdiaz",
+  "license": "MIT",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "keywords": [
+    "dark",
+    "theme",
+    "dark theme",
+    "accesible",
+    "nightstalker",
+    "jetbrains",
+    "contrast"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tuffybrain Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-default.json"
+      },
+      {
+        "label": "Tuffybrain Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-dimmed.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderdiaz/tuffybrain-vscode-theme.git"
+  }
+}
