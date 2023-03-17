@@ -16,3 +16,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Docs
 - Updated broken preview images
+
+## [0.1.2] - 2023-03-16
+
+### Fix
+- Changed `vscode` engines for better compatibility.
+
+### Docs
+- Updated icon extension.

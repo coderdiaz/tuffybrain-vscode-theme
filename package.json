@@ -2,14 +2,14 @@
   "name": "tuffybrain",
   "displayName": "Tuffybrain",
   "description": "A color theme inpired on Jetbrains Theme with accesible colors",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "coderdiaz",
   "license": "MIT",
   "scripts": {
     "publish": "vsce publish"
   },
   "engines": {
-    "vscode": "^1.76.0"
+    "vscode": "^1.37.0"
   },
   "categories": [
     "Themes"
